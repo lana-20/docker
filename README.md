@@ -84,7 +84,7 @@ _How to use Docker for a MS architecture?_
 
 Eg, take Google or a similar company that has a HW with many MSs. Each MS does some work, is responsible for its own configuration to provide some data to the users. Let's say I have Backend, MSSQL DB Server, etc., each running on its own [micro] service. Typically, these services are isolated. Each service is hosted on its own Docker container.
 
-<img src="https://user-images.githubusercontent.com/70295997/208190463-0576f0ff-ed51-4cda-a89f-56966405d82a.png" width=500>
+![image](https://user-images.githubusercontent.com/70295997/208192937-cd7e41af-7621-4969-9f04-2eb03111382f.png)
 
 Install and run Docker Engine on my (particular HW Linux OS) system. Can do many things through the Docker Engine:
 
