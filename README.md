@@ -4,9 +4,9 @@ __Docker__ development began in 2010 and its first market release came into pict
 
 Docker is the software that heps [TestNG] build and manage a secure app anywhere, on any platform.
 
-...
-
 __Before Docker:__
+
+<img src="https://user-images.githubusercontent.com/70295997/208167428-5a46e733-e2e4-4b66-b7ec-6cdaa553b35d.png" width=400>
 
 - On a hardware, install, eg, a Linux OS. On Linux, need to install a software called Hypervisor (VMWare), which is provided by AWS, Cisco, etc.
 	- [VMWare / Virtual Machine Monitor / Hypervisor](https://www.vmware.com/topics/glossary/content/hypervisor.html):
