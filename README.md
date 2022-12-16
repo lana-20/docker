@@ -9,9 +9,10 @@ Docker is the software that heps [TestNG] build and manage a secure app anywhere
 __Before Docker:__
 
 - On a hardware, install, eg, a Linux OS. On Linux, need to install a software called Hypervisor (VMWare), which is provided by AWS, Cisco, etc.
-	- VMWare / Virtual Machine Monitor / Hypervisor:
+	- [VMWare / Virtual Machine Monitor / Hypervisor](https://www.vmware.com/topics/glossary/content/hypervisor.html):
 		- software that creates and runs VMs
 		- allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing
+		- [Bare Metal Servers, Virtual Servers, and Containerization](https://www.trustradius.com/buyer-blog/bare-metal-servers-virtual-servers-and-containerization)
 
 - On a Hypervisor, install particular apps - Tomcat, DB servers (Cassandra, MongoDB and so on), Jenkins, etc.
 
