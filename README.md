@@ -64,7 +64,7 @@ Advantages of Docker:
 
 From the shared memory point of view, let's compare Docker and the 'old' way.
 
-...
+![image](https://user-images.githubusercontent.com/70295997/208183556-dcc8fe01-1e18-412c-bb8a-e051337ae218.png)
 
 
 
