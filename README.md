@@ -31,7 +31,7 @@ __Before Docker:__
 
 In 2013, __Docker gets released__.
 
-...
+<img src="https://user-images.githubusercontent.com/70295997/208169393-30c75103-6322-43fb-835b-ff552b20fc69.png" width=500>
 
 Now, there is no need for a Hypervisor or VMs. Use a container with the Docker Engine (a Docker software image).
 
