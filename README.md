@@ -12,7 +12,6 @@ __Before Docker:__
 	- [VMWare / Virtual Machine Monitor / Hypervisor](https://www.vmware.com/topics/glossary/content/hypervisor.html):
 		- software that creates and runs VMs
 		- allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing
-		- [Bare Metal Servers, Virtual Servers, and Containerization](https://www.trustradius.com/buyer-blog/bare-metal-servers-virtual-servers-and-containerization)
 
 - On a Hypervisor, install particular apps - Tomcat, DB servers (Cassandra, MongoDB and so on), Jenkins, etc.
 
@@ -68,5 +67,15 @@ From the shared memory point of view, let's compare Docker and the 'old' way.
 ...
 
 
+
+-----
+
+[Containerization](https://www.ibm.com/cloud/learn/containerization)
+
+[Containers vs. virtual machines](https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/containers-vs-vm)
+
+[Bare Metal Servers, Virtual Servers, and Containerization](https://www.trustradius.com/buyer-blog/bare-metal-servers-virtual-servers-and-containerization)
+
+[Containerization vs Virtualization](https://www.cloudmanagementinsider.com/containerization-vs-virtualization/)
 
 
