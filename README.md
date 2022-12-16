@@ -80,9 +80,14 @@ Advantages:
 
 Deploy quickly when I have many deployments on a daily basis. I get better software delivery, velocity, frequent deploys with changes in production. Docker has been used specifically for Microservices (MS).
 
-_How to use Docker for a MS architecture?_ Eg, take Google or a similar company that has a HW with many MSs. Each MS does some work, is responsible for its own configuration to provide some data to the users. Let's say I have Backend, MSSQL DB Server, etc., each running on its own [micro] service. Typically, these services are isolated. Each service is hosted on its own Docker container.
+_How to use Docker for a MS architecture?_ 
 
-Install and run Docker Engine on my (particular HW Linux OS) system. I can do many things through the Docker Engine:
+Eg, take Google or a similar company that has a HW with many MSs. Each MS does some work, is responsible for its own configuration to provide some data to the users. Let's say I have Backend, MSSQL DB Server, etc., each running on its own [micro] service. Typically, these services are isolated. Each service is hosted on its own Docker container.
+
+<img src="https://user-images.githubusercontent.com/70295997/208190463-0576f0ff-ed51-4cda-a89f-56966405d82a.png" width=500>
+
+Install and run Docker Engine on my (particular HW Linux OS) system. Can do many things through the Docker Engine:
+
 1. Deploy services
 2. Maintain
 3. Add
@@ -93,9 +98,10 @@ All these actions are easily handled with Docker container services. The fact th
 
 _Why/when not to use Docker?_
 - I have an old legacy system which I don't want to touch/disturb. I don't want to change the architecture, deployment strategy, etc.
-- Need extra talent, experienced staff who know Docker, containers, virtualization, image creation, DevOps/SRD team collaboration, etc. It's not every developer's responsibility.
+- Need extra talent, experienced staff who know Docker, containers, virtualization, image creation, DevOps/SRD team collaboration, etc. It's not every developer's niche or responsibility.
 
--How do Testers / Automation Engineers use Docker?_
+
+__How do Testers / Automation Engineers use Docker?__
 
 In the context of Selenium, I use the Selenium Grid which has a Hub connected to multiple Nodes.
 
