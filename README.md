@@ -107,7 +107,7 @@ In the context of Selenium, I use the Selenium Grid which has a Hub connected to
 
 <img src="https://user-images.githubusercontent.com/70295997/208217292-f8743b29-69bd-4bbb-8a5d-cd2ad48ced4a.png" width=600>
 
-![image](https://user-images.githubusercontent.com/70295997/208218941-cf12a1b6-f62e-494a-b1ff-9ae0ec16d67e.png)
+![image](https://user-images.githubusercontent.com/70295997/208220062-5511c52b-713b-4eac-b82f-28feb9f65232.png)
 
 
 
