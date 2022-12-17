@@ -113,15 +113,15 @@ I install Docker Engine on my machine. Through Docker Engine, I install one Dock
 
 The 'old' way maintenance is costly. Need to start the Selenium Grid, make a stop,  restart again, connect the Hub to multiple Nodes. Requires a lot of time and configuration.
 
-The 'new' way avails the one same Docker container running on my (AWS) Linux machine. Eg, I procure one Linux OS server machine on AWS and install my Docker Engine. The Hub uses my Script [from my local Python code] in the form of Desired Capabilities. The Script must include the the IP address and Port numner fo the Hub I use. I trigger my Test Cases on the Hub, and the Hub distributes them among different Nodes available in the form of different containers. These Nodes do not talk to each other, they are entirely isolated, there are no conflicts.
+The 'new' way avails the one same Docker container running on my (AWS) Linux machine. Eg, I procure one Linux OS server machine on AWS and install my Docker Engine. The Hub uses my Script [from my local Python code] in the form of Desired Capabilities. The Script must include the the IP address and Port number for the Hub I use. I trigger my Test Cases on the Hub, and the Hub distributes them among different Nodes available in the form of different containers. These Nodes do not talk to each other, they are entirely isolated, there are no conflicts.
 
 In Selenium Grid, I can replicate that - no need to have multiple VMs or HWs. That's the biggest advantage of Docker in Test Automation.
 
-Each Docker image is available on www.dockerhub.com, from where I can pull an image and install it. With the image imstalled, I can use a few commands to install Docker on my system. And automatically Docker takes care of installing the respective libraries, binaries, configuration, environment variables, etc.
+Each Docker image is available on www.dockerhub.com, from where I can pull an image and install it. With the image installed, I can use a few commands to install Docker on my system. And automatically Docker takes care of installing the respective libraries, binaries, configuration, environment variables, etc.
 
-Using the 'old' way, with multiple VMs or HWs I had to do everything myself. The 'new' way, I just need to get the right container image and install it on the respective OS. That's the power of Docker.
+Using the 'old' way, with multiple VMs or HWs I had to do everything myself. The 'new' way, I just need to get the right container image and install it on the respective OS. That's the power of Docker. Eg, installing and configuring a SQL Server without Docker is complex. It's simple installing it with the Docker container image. 
 
-Eg, installing and configuring a SQL Server without Docker is complex. It's simple installing it with the Docker container image. I can also handle Jenkins with Docker. I do not need to install Jenkins separately, I just need to installt the Jenkins image on my system. One simple command handles everything for Jenkins.
+I can also handle Jenkins with Docker. I do not need to install Jenkins separately, I just need to install the Jenkins image on my system. One simple command handles everything for Jenkins.
 
 
 -----
