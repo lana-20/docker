@@ -105,6 +105,7 @@ __How do Testers / Automation Engineers use Docker?__
 
 In the context of Selenium, I use the Selenium Grid which has a Hub connected to multiple Nodes.
 
+<img src="https://user-images.githubusercontent.com/70295997/208217292-f8743b29-69bd-4bbb-8a5d-cd2ad48ced4a.png" width=600>
 
 
 
