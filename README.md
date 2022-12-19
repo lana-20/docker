@@ -126,6 +126,8 @@ I can also handle Jenkins with Docker. I do not need to install Jenkins separate
 
 -----
 
+[Deployment Mechanisms and Supportability](https://github.com/lana-20/deployment-mechanisms/tree/main#readme)
+
 [Containerization](https://www.ibm.com/cloud/learn/containerization)
 
 [Containers vs. virtual machines](https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/containers-vs-vm)
