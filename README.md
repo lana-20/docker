@@ -137,3 +137,5 @@ I can also handle Jenkins with Docker. I do not need to install Jenkins separate
 [Containerization vs Virtualization](https://www.cloudmanagementinsider.com/containerization-vs-virtualization/)
 
 [Kubernetes CI/CD Pipelines Explained](https://thenewstack.io/kubernetes-ci-cd-pipelines-explained/)
+
+[Understanding Docker](https://dev.to/aurelievache/understanding-docker-part-1-retrieve-pull-images-3ccn)
