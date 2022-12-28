@@ -8,8 +8,8 @@ __Before Docker:__
 
 <img src="https://user-images.githubusercontent.com/70295997/208167428-5a46e733-e2e4-4b66-b7ec-6cdaa553b35d.png" width=400>
 
-- On a hardware, install, eg, a Linux OS. On Linux, need to install a software called Hypervisor (VMWare), which is provided by AWS, Cisco, etc.
-	- [VMWare / Virtual Machine Monitor / Hypervisor](https://www.vmware.com/topics/glossary/content/hypervisor.html):
+- On a hardware, install, eg, a Linux OS. On Linux, need to install a software called Hypervisor, which is provided by AWS, Cisco, etc.
+	- [Virtual Machine Monitor / Hypervisor](https://www.vmware.com/topics/glossary/content/hypervisor.html):
 		- software that creates and runs VMs
 		- allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing
 
@@ -141,3 +141,5 @@ I can also handle Jenkins with Docker. I do not need to install Jenkins separate
 [Understanding Docker](https://dev.to/aurelievache/understanding-docker-part-1-retrieve-pull-images-3ccn)
 
 [How to containerize Python applications with Docker](https://youtu.be/0UG2x2iWerk)
+
+[VMs vs Containers](https://youtu.be/eyNBf1sqdBQ)
